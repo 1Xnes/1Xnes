@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Xnes
-- 👀 I’m interested in C/C++/Pyhton & Deep learning/StableDiffusion/Chatgpt
-- 🌱 I’m currently learning C
+- 👀 I’m interested in C/C++/Pyhton & Generative AI/Machine Learning (especially FLUX and Llama Models) & Cyber Security/Privacy
+- 🌱 I’m currently learning about Cyber Security
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me xnesbitwise@gmail.com
 
